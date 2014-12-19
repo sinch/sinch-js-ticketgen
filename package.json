@@ -1,0 +1,20 @@
+{
+  "name": "papi-auth-js",
+  "version": "0.0.5",
+  "description": "Node module for PAPI authentication tickets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magnus Lundstedt",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.1.2",
+    "atob": "^1.1.2",
+    "crypto-js": "^3.1.2-5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.rebtelnet.local/sinchsdk/papi-auth-js.git"
+  }
+}
