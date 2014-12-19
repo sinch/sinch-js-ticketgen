@@ -1,4 +1,6 @@
-# PAPI Authentication ticket generator #
+# Sinch auth ticket generator #
+
+A module for generating Sinch authentication tickets when using the REST API. 
 
 Usage: 
 
