@@ -2,6 +2,6 @@
 
 Usage: 
 
-	var papiTicketGen = require('papi-auth-js');
-	papiTicketGen(APPKEY, APPSECRET, userObj);
+	var sinchTicketGen = require('sinch-ticketgen');
+	sinchTicketGen(APPKEY, APPSECRET, userObj);
 
